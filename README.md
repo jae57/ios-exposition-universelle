@@ -1,6 +1,5 @@
-## iOS 커리어 스타터 캠프
+# 만국박람회 프로젝트
 
-### 만국박람회 프로젝트 저장소
+### [기능요구서](https://docs.google.com/presentation/d/16KsRrAuA9-0JHrD5O722sDJpicp9MJctRMyQBGAnGmU/edit#slide=id.p)
 
-- 이 저장소를 자신의 저장소로 fork하여 프로젝트를 진행합니다
-
+JSON, Asset Catalog, TableView, ScrollView, AutoLayout
